@@ -10,7 +10,7 @@ on:
       IMG_URL:
         description: 'URL to recovery/boot image'
         required: true
-        default: 'https://zippyshare.day/JWg3iu6WkUQINVm/file'
+        default: 'https://media-nxzw-fy-person01.nx5oss.ctyunxs.cn/PERSONCLOUD/5c2a808a-b5cf-4dc8-97cd-03d749d80ba5.img?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=g6jU1T3TkAbPKf5ouH5d&x-amz-userLevel=7&x-amz-limitrate=51200&x-amz-UID=826925900&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22recovery.img%22%3Bfilename*%3DUTF-8%27%27recovery.img&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=IMVgRriSM2WRuiM7IXHGTbaxXAo%3D&x-amz-SHID=12393116606368&Expires=1749993331&x-amz-FSIZE=104857600&x-amz-UFID=925131199018089495'
 
 jobs:
   generate-device-tree:
